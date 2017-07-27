@@ -10,6 +10,11 @@ body {
 h1{
 	border: 10px solid #4CB2C7 ;
 	border-radius:10%;
-	font-size:400%;
+	font-size:1000%;
 	background-image : -webkit-linear-gradient(#4CB2C7, #FFF);
+	margin: 50px 200px;
+	padding: 20px;
 }	
+h2{
+	font-size: 500%;
+}
