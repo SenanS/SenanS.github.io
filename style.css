@@ -1,0 +1,11 @@
+body {
+	background-image: url("https://www.facebook.com/photo.php?fbid=1432456013438241&set=rpd.100001072824226&type=3&theater") no-repeat;
+	text-align: center;
+	color: #FFF;
+	font-family: serif;
+}	
+h1{
+	border: 2px solid #4CB2C7 ;
+	border-radius:10%;
+	background-image : -webkit-linear-gradient(#4CB2C7, #FFF)
+}	
