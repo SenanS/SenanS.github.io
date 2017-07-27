@@ -4,13 +4,12 @@ body {
 	color: #FFF;
 	font-family: serif;
 	font-size: 50%;
-	background-size: contain;
+	background-size: cover;
 	background-attachment:scroll;
 }	
 h1{
 	border: 10px solid #4CB2C7 ;
 	border-radius:10%;
 	font-size:400%;
-	background-image : -webkit-linear-gradient(#4CB2C7, #FFF)
-	font-weight: bold;
+	background-image : -webkit-linear-gradient(#4CB2C7, #FFF);
 }	
