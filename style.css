@@ -7,8 +7,8 @@ body {
 	background-repeat: no-repeat;
 }	
 h1{
-	border: 10px solid #4CB2C7 ;
-	border-radius:10%;
+	border: 5px solid #4CB2C7 ;
+	border-radius:20%;
 	font-size:1000%;
 	background-image : -webkit-linear-gradient(#4CB2C7, #FFF);
 	margin: 50px 200px;
