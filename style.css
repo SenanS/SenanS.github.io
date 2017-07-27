@@ -1,11 +1,15 @@
 body {
-	background-image: url("https://www.facebook.com/photo.php?fbid=1432456013438241&set=rpd.100001072824226&type=3&theater") no-repeat;
+	background-image: url("hannah.jpg");
 	text-align: center;
 	color: #FFF;
 	font-family: serif;
+	font-size: 50%;
+	z-index:1;
+	background-size: cover;
 }	
 h1{
 	border: 2px solid #4CB2C7 ;
 	border-radius:10%;
 	background-image : -webkit-linear-gradient(#4CB2C7, #FFF)
+	z-index:20;
 }	
