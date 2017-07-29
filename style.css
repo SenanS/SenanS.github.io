@@ -15,7 +15,7 @@ h1{
 	margin: 50px 200px;
 	margin-top:250px;
 	padding: 20px;
-	
+	display: inline;
 }	
 h2{
 	font-size: 500%;
