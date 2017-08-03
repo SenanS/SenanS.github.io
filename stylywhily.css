@@ -1,0 +1,65 @@
+body{
+	background: #5D9DB3 ;
+	color: #72B35D;
+	font-family: lobster, cursive;
+	font-size:150%;
+}
+h1 {
+	color: #B3735D;
+	font-size: 50px;
+	z-index: 20;
+}
+
+table{
+	color: #9E5DB3;
+	border: 2px solid #000;
+}
+
+p{
+	display: inline;
+}
+
+
+.topshop{
+	text-align: center;
+	font-size: 90px;
+	border: 10px solid #9E5DB3;
+	background: #9E5DB3;
+	padding: 80px 20%;
+	display: inline-block;
+	box-shadow: 2px 2px 2px 2px #B3735D;
+	padding-top: 100px;
+	margin-top: -10px;
+}
+
+.row1{
+	background-color: #9E5DB3;
+}
+.row2{
+	background-color: #B3735D;
+}
+
+.quest{
+	font-family: lobster, cursive;
+	border: 3px dashed #000;
+	border-radius: 60%
+}
+
+.button{
+	width: 20%;
+	font-size: 30px;
+	color: #72B35D;	
+	font-family: lobster, cursive;
+}
+.place{
+	font-size: 18px;
+	color: #72B35D;	
+	font-family: lobster, cursive;
+}
+
+.dogoo{
+	font-family: lobster, cursive;
+	border: 3px dotted #000;
+	border-radius: 30%;
+	padding: 10px;
+}
