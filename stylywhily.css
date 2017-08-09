@@ -66,3 +66,6 @@ p{
 	border-radius: 30%;
 	padding: 10px;
 }
+input:checked {
+	font-style: bold;
+}
