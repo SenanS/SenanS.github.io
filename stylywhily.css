@@ -20,8 +20,7 @@ p{
 }
 
 #humans{
-	text-decoration: line-through;
-	color: Crimson;
+	text-decoration: line-through Crimson;
 }
 
 .topshop{
